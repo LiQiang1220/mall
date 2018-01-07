@@ -3,7 +3,7 @@
 /*
 |--------------------------------------------------------------------------
 | Application Routes
-|--------------------------------------------------------------------------
+|----------`----------------------------------------------------------------
 |
 | Here is where you can register all of the routes for an application.
 | It's a breeze. Simply tell Laravel the URIs it should respond to
@@ -14,3 +14,23 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/user/login',function(){
+	return view('user/login');
+	 
+	 
+});
+
+Route::get('/user/register',function(){
+	return view('user/register');
+	 
+	 
+});
+
+ 
+
+
+
+?>
+
+
