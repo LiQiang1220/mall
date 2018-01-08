@@ -12,36 +12,27 @@
 */
 
 // 首页
-Route::get('/',"home\IndexController@index");
-  
-	 
-// });
-
-// Route::get('/home/user/register',function(){
-// 	return view('user/register');
-	 
-	 
-// });
-
+// Route::get('/',"home\IndexController@index");
+ 
 // Route::get('/home/sms','UserController@index');
 
-Route::group(['prefix'=>'home'],function(){
-	// 登录路由
-	Route::get('user/login','UserController@login');
+// Route::group(['prefix'=>'home'],function(){
+// 	// 登录路由
+// 	Route::get('user/login','UserController@login');
 
-	// 注册路由
-	Route::get('user/register','UserController@register');
-
-	// // 首页
-	// Route::get('/','IndexController@index');
-
-
-
-});
+// 	// 注册路由
+// 	Route::get('user/register','UserController@register');
  
 
 
 
-?>
+// });
 
 
+ // 路由不可以使用admin和home，要用加s
+Route::get('/',function(){
+	echo '<center ><h1>欢迎访问首页</h1></center>';
+});
+Route::controller('/admins','admin\AdminController');
+ 
+ 
