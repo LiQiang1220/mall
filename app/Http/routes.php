@@ -32,5 +32,8 @@ Route::get('/home/index',function(){
 Route::get('/admin/login',function(){
 	return view('/admin/login');
 });
-
+//收货地址
+Route::get('/addr/addr',function(){
+	return view('/addr/address');
+});
 
