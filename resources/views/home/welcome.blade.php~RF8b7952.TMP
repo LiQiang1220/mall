@@ -11,7 +11,7 @@
 <meta name="mobile-agent" content="format=xhtml;url=http://m.vmall.com/">
 <meta property="wb:webmaster" content="f62bd8cc2f7d9778" />
 <link rel="shortcut icon" href="https://www.vmall.com/favicon.ico" />
-<link href="css/ec.core.base.min.css" rel="stylesheet" type="text/css">
+<link href="/css/ec.core.base.min.css" rel="stylesheet" type="text/css">
 <link href="/css/index.min.css" rel="stylesheet" type="text/css">
 <script src="js/jsapi.js" namespace="ec"></script>
 <script src="js/jquery-1.4.4.min.js"></script>
