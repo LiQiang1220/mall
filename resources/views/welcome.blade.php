@@ -46,3 +46,23 @@
         </div>
     </body>
 </html>
+// <?php
+// use Flc\Dysms\Client;
+// use Flc\Dysms\Request\SendSms;
+
+// $config = [
+//     'accessKeyId'    => 'LTAIAvMAwRAskN0j',
+//     'accessKeySecret' => '6ES9d03X45ct6UUbFbm3M31wTfOYvg',
+// ];
+
+// $client  = new Client($config);
+// $sendSms = new SendSms;
+// $sendSms->setPhoneNumbers('15175357521');
+// $sendSms->setSignName('安伟松');
+// $sendSms->setTemplateCode('SMS_120410793');
+// $sendSms->setTemplateParam(['code' => rand(100000, 999999)]);
+// $sendSms->setOutId('demo');
+
+// print_r($client->execute($sendSms));
+
+// ?>

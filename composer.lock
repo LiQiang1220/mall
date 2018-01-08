@@ -226,7 +226,10 @@
             },
             "dist": {
                 "type": "zip",
+
                 "url": "https://api.github.com/repos/flc1125/dysms/zipball/a60645c6b35a15fe7fed6282784d2094368fc8f5",
+
+
                 "reference": "a60645c6b35a15fe7fed6282784d2094368fc8f5",
                 "shasum": ""
             },
