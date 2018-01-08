@@ -189,7 +189,8 @@ var jsdevswfpath = "https://hwid1.vmall.com/CAS/up/rss_15/../../js/pc_rss/secris
 								tabindex="5">
 						</div>
 					</div>
-					<div id="msg_checkPassword"></div>
+					<div id="msg_checkPassword">
+				</div>
 
 
 
