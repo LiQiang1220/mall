@@ -14,3 +14,23 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+//前台登录注册
+Route::get('/home/register',function(){
+     return view('/home/register');
+});
+
+Route::get('/home/login',function(){
+	return view('/home/login');
+});
+
+Route::get('/home/index',function(){
+	return view('/home/index');
+});
+
+//后台登录
+Route::get('/admin/login',function(){
+	return view('/admin/login');
+});
+
+
