@@ -34,6 +34,6 @@ Route::get('/admin/login',function(){
 });
 //收货地址
 Route::get('/addr/addr',function(){
-	return view('/addr/address');
+	return view('/address/address');
 });
 
