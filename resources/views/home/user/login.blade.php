@@ -11,31 +11,31 @@
 </script>
 
 <link href="https://hwid1.vmallres.com/CAS/up/rss_15/../common/images/default/hwfavicon.ico" type="image/x-icon" rel="shortcut icon" /> 
-<link href="/css/ec.core_1.css" rel="stylesheet" type="text/css"> 
-<link href="/css/common.css" rel="stylesheet" type="text/css"> 
-<!-- <link href="/css/dialog.css" rel="stylesheet" type="text/css">  -->
-<link href="/css/dialogemuiv6.css" rel="stylesheet" type="text/css"> 
-<link href="/css/common_1.css" rel="stylesheet" type="text/css"> 
-<link href="/css/zh-cn.css" rel="stylesheet" type="text/css"> 
+<link href="/home/css/ec.core_1.css" rel="stylesheet" type="text/css"> 
+<link href="/home/css/common.css" rel="stylesheet" type="text/css"> 
+<!-- <link href="/home/css/dialog.css" rel="stylesheet" type="text/css">  -->
+<link href="/home/css/dialogemuiv6.css" rel="stylesheet" type="text/css"> 
+<link href="/home/css/common_1.css" rel="stylesheet" type="text/css"> 
+<link href="/home/css/zh-cn.css" rel="stylesheet" type="text/css"> 
 <script type="text/javascript">var localHttps="https://hwid1.vmall.com/CAS";var currentSiteID="1";</script>
-<link href="/js/jsapi.js" namespace="ec"></script>
-<link href="/js/jquery-1.8.2.min.js" id=jsid></script>
-<link href="/js/ec.core.js"></script>
-<link href="/js/ec.business.js"></script> 
-<link href="/js/commonjs.js"></script>
-<link href="/js/lazyload-min.js"></script>
-<link href="/js/uc_base.js"></script>
-<link href="/js/casajaxobj.js"></script>
-<link href="/js/jquery.qrcode.min.js"></script>
-<link href="/js/casui.js"></script>
+<link href="/home/js/jsapi.js" namespace="ec"></script>
+<link href="/home/js/jquery-1.8.2.min.js" id=jsid></script>
+<link href="/home/js/ec.core.js"></script>
+<link href="/home/js/ec.business.js"></script> 
+<link href="/home/js/commonjs.js"></script>
+<link href="/home/js/lazyload-min.js"></script>
+<link href="/home/js/uc_base.js"></script>
+<link href="/home/js/casajaxobj.js"></script>
+<link href="/home/js/jquery.qrcode.min.js"></script>
+<link href="/home/js/casui.js"></script>
 
-<link href="/js/lazyload-min.js"></script>
+<link href="/home/js/lazyload-min.js"></script>
 </head>
 <body class="login themeName-red">
 	<div id="cookies_privacy" class="center cookie hidden">
 		本站点使用cookies,继续浏览表示您同意我们使用cookies。
 		<a class="cookie-pro" href="#">Cookies和隐私政策></a>
-		<img src="/picture/cookie-close.png"/>
+		<img src="/home/picture/cookie-close.png"/>
 	</div>
 	<div>
 			<!-- 头部  -->
@@ -44,7 +44,7 @@
 			
 		    
 			    <div class="main-logo adHeadPicContainer">
-					<img src="/picture/huaweilogo.png" class="adHeadPic">
+					<img src="/home/picture/huaweilogo.png" class="adHeadPic">
 				</div>
 				<div class="website-name"  style="color:#999;">
 					<span class="logo_line"></span>
@@ -153,7 +153,7 @@
 										
 										
 										<div class="qrcode-over-time">
-										<img src="/picture/qrcode-over-time.png">	
+										<img src="/home/picture/qrcode-over-time.png">	
 										<div class="refush-content hiden">
 										<div class="des">二维码失效</div>
 										<div class="refush">刷新</div>
@@ -578,10 +578,10 @@
 	
 	
 </script>
-<!-- <link href="/js/loginauthdialog.js"></script> -->
-<!-- <link href="/js/login.js"></script> -->
-<!-- <link href="/js/swfobject.js"></script> -->
-<!-- <link href="/js/acctguard-secure.min.js"></script> -->
+<!-- <link href="/home/js/loginauthdialog.js"></script> -->
+<!-- <link href="/home/js/login.js"></script> -->
+<!-- <link href="/home/js/swfobject.js"></script> -->
+<!-- <link href="/home/js/acctguard-secure.min.js"></script> -->
 
 
 

@@ -10,29 +10,30 @@
 | and give it the controller to call when that URI is requested.
 |
 */
-
-// 首页
-// Route::get('/',"home\IndexController@index");
  
-// Route::get('/home/sms','UserController@index');
-
-// Route::group(['prefix'=>'home'],function(){
-// 	// 登录路由
-// 	Route::get('user/login','UserController@login');
-
-// 	// 注册路由
-// 	Route::get('user/register','UserController@register');
- 
-
-
-
-// });
-
-
  // 路由不可以使用admin和home，要用加s
 Route::get('/',function(){
-	echo '<center ><h1>欢迎访问首页</h1></center>';
+	return '<center ><h1>欢迎访问首页</h1></center>';
 });
+
+// 后台的路由
 Route::controller('/admins','admin\AdminController');
- 
+
+// 前台油路开始
+Route::group(['prefix'=>'home'],function(){
+
+	// 用户模块 
+	Route::controller('/user','home\UserController');
+
+	// 商品模块
+	Route::controller('/goods','home\GoodsController');
+
+
+	 
+
+
+});
+
+
+Route::get('/aaa','UserController@index');
  

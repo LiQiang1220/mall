@@ -1,6 +1,3 @@
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -8,20 +5,20 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="renderer" content="webkit" />
 <title>注册_华为帐号</title> <link href="https://hwid1.vmallres.com/CAS/up/rss_15/../common/images/default/hwfavicon.ico" type="image/x-icon" rel="shortcut icon" /> 
-<link href="/css/dialog.css" rel="stylesheet" type="text/css"> 
-<link href="/css/common_2.css" rel="stylesheet" type="text/css"> 
-<link href="/css/zh-cn_css.css" rel="stylesheet" type="text/css"> 
+<img src="/home/css/dialog.css" rel="stylesheet" type="text/css"> 
+<img src="/home/css/common_2.css" rel="stylesheet" type="text/css"> 
+<img src="/home/css/zh-cn_css.css" rel="stylesheet" type="text/css"> 
 <!-- 
 <script type="text/javascript">var localHttps="https://hwid1.vmall.com/CAS";var currentSiteID="1";</script>
 -->
-<script src="/js/jsapi.js" namespace="ec"></script>
-<script src="/js/jquery-1.8.2.min.js" id=jsid></script>
-<script src="/js/ec.core.js"></script>
-<script src="/js/casui.js"></script>
-<script src="/js/ec.business.js"></script> 
-<script src="/js/commonjs.js"></script>
-<script src="/js/casajaxobj.js"></script>
-<script src="/js/reg_base.js"></script>
+<img src="/home/js/jsapi.js" namespace="ec"></script>
+<img src="/home/js/jquery-1.8.2.min.js" id=jsid></script>
+<img src="/home/js/ec.core.js"></script>
+<img src="/home/js/casui.js"></script>
+<img src="/home/js/ec.business.js"></script> 
+<img src="/home/js/commonjs.js"></script>
+<img src="/home/js/casajaxobj.js"></script>
+<img src="/home/js/reg_base.js"></script>
  
 
 </head>
@@ -33,7 +30,7 @@
 		
 		     
 			  	<div class="main-logo adHeadPicContainer" style="width:143px">
-					<img src="/picture/head-top.png" class="wihteBgPic">
+					<img src="/home/picture/head-top.png" class="wihteBgPic">
 				</div>
 				<div class="website-name"  style="color:#fff;">
 					<b style="font-size: 18px;margin-top: -3px;float: left;color:#cccccc;">|</b>
@@ -260,8 +257,8 @@
 
 		
 
-		<script src="/js/registerbyphone.js"></script>
-		<script src="/js/swfobject.js"></script>
-		<script src="/js/acctguard-secure.min.js"></script>
+		<img src="/home/js/registerbyphone.js"></script>
+		<img src="/home/js/swfobject.js"></script>
+		<img src="/home/js/acctguard-secure.min.js"></script>
 </body>
 </html>
